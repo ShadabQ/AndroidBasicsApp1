@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="ques1">1. Which of these are Primary colors ?</string>
+    <string name="ques2">2. Is 3>5 ?</string>
+    <string name="ques3">3. What is the value of 3+6 ?</string>
+    <string name="ques4">4. Is -3>2 ?</string>
+    <string name="ques5">What is the value of 1+8 ?</string>
+    <string name="hint">Type your answer here</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="result">Result : You have answered <xliff id="score" example="0">%d</xliff> correct answer(s).</string>
+    <string name="submit">Submit</string>
+</resources>

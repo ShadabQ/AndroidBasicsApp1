@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="True">真正</string>
+    <string name="False">假</string>
+    <string name="red">紅</string>
+    <string name="blue">藍色</string>
+    <string name="green">綠色</string>
+    <string name="submit">提交</string>
+</resources>
